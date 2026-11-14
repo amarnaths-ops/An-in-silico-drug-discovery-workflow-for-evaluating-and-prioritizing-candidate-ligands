@@ -14,10 +14,8 @@ This public repository contains code and documentation only. Input data, images,
 
 - `scripts/model.py` — primary analysis script for validating the input table, normalizing selected metrics, calculating group and consensus scores, assessing ranking stability, and generating local outputs.
 - `scripts/make_panels.py` — optional script for making compound panels from local ranking, cluster data, and images.
-- `requirements.txt` — Python package dependencies.
-- `.gitignore` — excludes private input data, images, generated results, and common local files.
-
-The numbered scripts `scripts/step1.py` through `scripts/step10.py` are earlier exploratory scripts. They refer to `data/test_data.csv`, which is not included. The documented workflow uses `scripts/model.py`.
+  
+ The documented workflow uses `scripts/model.py`.
 
 ## Workflow
 
