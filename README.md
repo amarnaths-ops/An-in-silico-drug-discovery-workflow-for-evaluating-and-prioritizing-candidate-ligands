@@ -50,15 +50,12 @@ The model averages metrics within each group and calculates a weighted consensus
 The ranking depends on the selected input compounds, metrics, and weights. Adding or removing compounds can change normalized scores and rankings. These scores are screening heuristics, not probabilities of binding or efficacy.
 
 ## Requirements
-
 - Python 3
-- Packages listed in `requirements.txt`
+- Packages: pandas, numpy, matplotlib
 
-Install dependencies from the repository root:
+Install them with:
 
-```bash
-python -m pip install -r requirements.txt
-```
+`python -m pip install pandas numpy matplotlib`
 
 ## Running the analysis
 
