@@ -112,3 +112,9 @@ Cite the relevant target biology, computational tools, methods, and datasets in 
 - Consensus rankings depend on the selected metrics, normalization range, and weights.
 - A high computational rank does not establish safety, efficacy, selectivity, or drug candidacy.
 - Experimental validation is needed to evaluate biological activity.
+
+## Designed a website webpage for my project website 
+https://www.figma.com/design/Q5hErfGVbjiJKqb5MLBzQ9/IL-8-Mimetic-Explorer?node-id=0-1&t=Kq2i5Q9x6CVBrbkO-1
+
+## website link 
+https://amarnaths-ops.github.io/IL8-explorer/
